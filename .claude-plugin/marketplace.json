@@ -2320,7 +2320,7 @@
         "url": "https://github.com/miroapp/miro-ai.git",
         "path": "claude-plugins/miro",
         "ref": "main",
-        "sha": "c2494b24510d01ec3e50fad94a0c5fc3ca40e339"
+        "sha": "b6408e1bdfe0c842f209d40b52e92caf118a4d39"
       },
       "homepage": "https://miro.com"
     },
