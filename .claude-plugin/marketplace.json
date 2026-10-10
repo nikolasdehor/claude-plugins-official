@@ -4133,7 +4133,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Dynatrace/dynatrace-for-ai.git",
-        "sha": "b7ae5e6c7b03bda6938133cd47ef7d69a425dcc6"
+        "sha": "4f9aa71f9802aa6db0a4069ae5619eb3392ff411"
       },
       "homepage": "https://www.dynatrace.com/hub/detail/claude-code-cli/"
     }
