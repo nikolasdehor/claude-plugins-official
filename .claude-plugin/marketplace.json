@@ -3940,7 +3940,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/windsor-ai/claude-windsor-ai-plugin.git",
-        "sha": "d7ba1cb036c7ca765536355fb85f13a3237ea3f9"
+        "sha": "710dd0ba5b362840fc34b8286cf58bb99c326ec2"
       },
       "homepage": "https://windsor.ai"
     },
