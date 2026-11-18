@@ -2780,7 +2780,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Postman-Devrel/postman-claude-code-plugin.git",
-        "sha": "c85c881c68c9b6338b5b75e989a79d61e76c51a0"
+        "sha": "27f652ea98d9ae0cec0ccc9f2b46128239a36a8f"
       },
       "homepage": "https://learning.postman.com/docs/developer/postman-mcp-server/"
     },
@@ -3515,7 +3515,7 @@
         "url": "https://github.com/stackhawk/agent-skills.git",
         "path": "plugins/hawkscan",
         "ref": "main",
-        "sha": "66cac9baa5883a1007575faf1b22855a1124834a"
+        "sha": "da16c1d7ed698ce700a66f2a6674b1d1d2c7d99a"
       },
       "homepage": "https://docs.stackhawk.com/ai-security/"
     },
